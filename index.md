@@ -42,18 +42,20 @@ Suggested Topics (but not limited to):
 
 All times are intended in Anywhere on Earth (AoE) timezone.
 
+Please submit your contributions from the [eCAS submission site on EasyChairs](https://easychair.org/conferences/?conf=ecas2022).
+
 ### Scope
 
 The workshop is expected to attract participants from many disciplines, including (but not limited to) Autonomic Computing, Biology, Game Theory, Evolutionary Computing, Network Science, Self-Organizing Systems, Pervasive Computing, Collective Intelligence, and to be of interest to anyone working with the domain of large-scale self-adaptive systems. In addition, the European Commission has funded seven scientific projects and a Coordination Action in this area, with projects starting at the beginning of 2013. The proposed workshop provides a natural base for the projects to meet and share ideas, yet we stress that the workshop is in no way limited to this audience, and is likely to have broad appeal to a wide range of researchers. Potential audience members might work in application areas relating to large-scale distributed systems, or may come from any of the many disciplines that can provide insights into the operation and design of such systems.
 
 ### Submission, review, participation, and publication details
 
+- **E-submission site**:  <https://easychair.org/conferences/?conf=ecas2022>
 - **Originality**. Submitted papers must be original, unpublished, and not concurrently submitted for publication elsewhere.
 - **Kinds of submissions**. The workshop welcomes two kinds of submissions:
     1. **Workshop papers**: provide original research contributions. These must not exceed **6 pages** (including references).
     2. **Work-in-Progress (WIP) papers**: describe original work-in-progress research which may not have been fully validated. These must not exceed **2 pages** (including references).
 - **Format**. All paper submissions should follow the [formatting indications of the main conference](https://2022.acsos.org/track/acsos-2022-papers#Call-for-Papers), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
-- **E-submission site**: <!-- <https://easychair.org/conferences/?conf=ecas2022> --> TBD
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a program committee with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 - **Publication**. All *accepted and presented* papers will be submitted to *IEEE Xplore* and indexing databases like Elsevier, IET, and Scopus.
