@@ -35,8 +35,8 @@ Suggested Topics (but not limited to):
 ### Important Dates
 
 - Abstract deadline (soft): July 8th, 2022
-- **Submission deadline**: <!-- ~~March 15, 2022~~--> **July 15th, 2022** <!-- (EXTENDED DEADLINE) -->
-- Notification: August 1st, 2022
+- **Submission deadline**: <!-- ~~March 15, 2022~~--> **July 29th, 2022 (FINAL EXTENDED DEADLINE)**
+- Notification: August 7th, 2022
 - Camera-ready deadline: August 12th, 2022 (strict)
 - Workshop date: September 19-23, 2022 (TBC)
 
