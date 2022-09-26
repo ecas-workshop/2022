@@ -29,6 +29,7 @@ permalink: /committees/
 - Johann Bourcier, IRISA/INRIA-Universite de Rennes 1, FR
 - Antonio Bucchiarone, Fondazione Bruno Kessler Trento, IT
 - Javier Camara, University of York, UK
+- Roberto Casadei, University of Bologna, IT
 - Rocco De Nicola, IMT - School for Advanced Studies Lucca, IT
 - Giovanna Di Marzo Serugendo, University of Geneva, CH
 - Simon Dobson, University of St Andrews, UK
